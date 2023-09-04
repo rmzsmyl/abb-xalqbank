@@ -23,11 +23,10 @@ body {
 }
 
 .tops ul {
-    display: inline-block;
+   
     display: flex;
     margin: auto;
     padding: 2px;
-    display: inline-block;
     margin-right: 10px;
     
 }
